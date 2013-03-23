@@ -30,7 +30,7 @@
          url('fonts/OpenSans-Semibold-webfont.woff') format('woff'),
          url('fonts/OpenSans-Semibold-webfont.ttf') format('truetype'),
          url('fonts/OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
-    font-weight: 600;
+    font-weight: bold;
     font-style: normal;
 
 }
@@ -42,11 +42,12 @@
          url('fonts/OpenSans-SemiboldItalic-webfont.woff') format('woff'),
          url('fonts/OpenSans-SemiboldItalic-webfont.ttf') format('truetype'),
          url('fonts/OpenSans-SemiboldItalic-webfont.svg#OpenSansSemiboldItalic') format('svg');
-    font-weight: 600;
+    font-weight: bold;
     font-style: italic;
 
 }
 
+/*
 @font-face {
     font-family: 'OpenSans';
     src: url('fonts/OpenSans-Bold-webfont.eot');
@@ -69,3 +70,4 @@
     font-weight: bold;
     font-style: italic;
 }
+*/
